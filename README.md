@@ -5,7 +5,7 @@ kafka_exporter
 
 Kafka exporter for Prometheus. For other metrics from Kafka, have a look at the [JMX exporter](https://github.com/prometheus/jmx_exporter).
 
-This is a fork of [github.com/danielqsj/kafka_exporter](https://github.com/danielqsj/kafka_exporter/) with some of the long pending PR's merged, using a more recent Sarama and Go modules, compiled with Go 1.12.
+This is a fork of [github.com/danielqsj/kafka_exporter](https://github.com/danielqsj/kafka_exporter/) with some of the long pending PR's merged, using a more recent Sarama and Go modules, compiled with Go 1.14.
 
 Table of Contents
 -----------------
